@@ -1,0 +1,17 @@
+nav{
+    background-color: #000000;
+    overflow: hidden;
+}
+div .nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 14px 20px;
+    display: block;
+    font-family: Comic Sans Ms ;
+    font-size: 5vh;
+}   
